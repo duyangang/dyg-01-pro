@@ -11,7 +11,7 @@ public class HelloWorld {
 
         System.out.println("nihao");
 
-
+        System.out.println("add new code.");
 
     }
 
